@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "bitcore-lib": "^0.14.0"
-  }
+  },
   "dependencies": {
     "unorm": "^1.3.3"
   }
